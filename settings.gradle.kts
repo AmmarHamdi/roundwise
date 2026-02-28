@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "roundwise"
-include(":app", ":core", ":data", ":domain", ":ui")
+
+rootProject.name = "RoundWise"
+include(":app")
